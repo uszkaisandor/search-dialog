@@ -34,7 +34,6 @@
                     android:layout_marginLeft="16dp"
                     android:background="@android:color/transparent"
                     android:gravity="start|center_vertical"
-                    android:text="1123123123"
                     android:textSize="14sp" />
 
                 <android.support.v7.widget.AppCompatImageView
